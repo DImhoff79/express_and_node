@@ -1,0 +1,29 @@
+{
+  "name": "express_and_node",
+  "version": "1.0.0",
+  "description": "Testing some things",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DImhoff79/express_and_node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DImhoff79/express_and_node/issues"
+  },
+  "homepage": "https://github.com/DImhoff79/express_and_node#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-generator": "^4.15.5",
+    "handlebars": "^4.0.11",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "test"
+  ]
+}
